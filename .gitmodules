@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "toolmaRk"]
+	path = toolmaRk
+	url = https://github.com/jrhadler/toolmark
+	shallow = true
+	registered = true
